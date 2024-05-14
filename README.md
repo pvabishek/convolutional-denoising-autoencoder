@@ -37,8 +37,8 @@ Reconstruct noisy images from the test set using the trained autoencoder, and di
 
 ## PROGRAM
 ```
-Developed by: singaravetrivel S
-Register No: 212222220048
+Developed by: ABISHEK.PV
+Register No: 212222230003
 ```
 ```python
 from tensorflow import keras
