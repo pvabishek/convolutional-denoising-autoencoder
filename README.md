@@ -29,8 +29,8 @@ Pass test data for validating manually.
 Plot the predictions for visualization.
 
 ## PROGRAM
-### DEVELOPED BY: SREEKUMAR S
-### REGISTER NUMBER: 212223240157
+### DEVELOPED BY: ABISHEK PV
+### REGISTER NUMBER: 212222230003
 ```
 import pandas as pd
 import numpy as np
